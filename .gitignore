@@ -1,0 +1,7 @@
+*
+!.gitignore
+!agent/extensions/collapsed-prompt-input.ts
+!agent/extensions/original-prompt-session-name.ts
+!agent/extensions/pi-desktop-notification.ts
+!agent/prompts/btw.md
+!agent/prompts/implement-comment-blocks.md
